@@ -1,0 +1,10 @@
+[
+    {
+        "keys": ["ctrl+alt+b"],
+        "command": "bacon"
+    },
+    {
+        "keys": ["b", "a", "c", "o", "n", "tab"],
+        "command": "bacon"
+    }
+]
